@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'exo_2regular';
+    src: font_url('exo2-regular-webfont.woff2') format('woff2'),
+         font_url('exo2-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'exo_2italic';
+    src: url('exo2-italic-webfont.woff2') format('woff2'),
+         url('exo2-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
