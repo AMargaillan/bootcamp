@@ -25,3 +25,4 @@ class QuotesController < ApplicationController
     params.require(:quote).permit(:saying, :author)
   end
 end
+
